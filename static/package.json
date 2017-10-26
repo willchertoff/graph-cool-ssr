@@ -1,0 +1,6 @@
+{
+  "name": "slash-command",
+  "scripts": {
+    "start": "micro index.js"
+  }
+}
